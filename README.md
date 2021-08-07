@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PouryaNoufallah96
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning crypto & blockchain
-- 💞️ I’m looking to collaborate on web development (nuxt js, vue js,angular) for web frontend, backend (asp.net core,node js) for backend, (sql, mongodb) for database, (flutter, xamarin) for mobile application
+- 💞️ I’m looking to collaborate on web and mobile development (nuxt js, vue js,angular) for web frontend, backend (asp.net core,node js) for backend, (sql, mongodb) for database, (flutter, xamarin) for mobile application
 - 📫 How to reach me pouryanoufallah@yahoo.com
 
 <!---
