@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pourya
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning crypto & blockchain
-- 💞️ I’m looking to collaborate on web and mobile development (nuxt js, vue js,angular) for web frontend, backend (asp.net core,node js) for backend, (sql, mongodb) for database, (flutter, xamarin) for mobile application
+- 💞️ I’m looking to collaborate on web development, backend: (.NET, Node-based frameworks), web development (Next.js), mobile development (Flutter)
 - 📫 How to reach me pouryanoufallah@yahoo.com
 
 <!---
